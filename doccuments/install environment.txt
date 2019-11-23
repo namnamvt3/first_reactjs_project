@@ -1,0 +1,4 @@
+1. install npm
+   - download nodejs : https://nodejs.org/en/download/
+2. install yarn
+   - after install nodejs > run this command to install yarn : npm install -g yarn
